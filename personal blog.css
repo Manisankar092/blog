@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ef7979;
+    
+}
+
+header {
+    background-color: #ef7979;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration:none
+}
+.about{
+    font-size: 200px;
+    font-weight: 500;
+}
+h2{
+    font-size: x-large;
+}
